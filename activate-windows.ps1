@@ -30,7 +30,7 @@ $choice = Read-Host "Enter your choice (1 or 2)"
 
 switch ($choice) {
     "1" {
-        $productKey = "WX4NM-KYWYW-QJJR4-XV3QB-6VM33"  # Server 2022 Standard
+        $productKey = "VDYBN-27WPP-V4HQT-9VMD4-VMK7H"  # Server 2022 Standard
     }
     "2" {
         $productKey = "WMDGN-G9PQG-XVVXX-R3X43-63DFG"  # Server 2019 Standard
